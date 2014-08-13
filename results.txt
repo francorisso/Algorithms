@@ -1,0 +1,13 @@
+PHPUnit 4.1.4 by Sebastian Bergmann.
+
+Configuration read from /home/franco/720desarrollos/booking_test/phpunit.xml
+
+.6 items: 3.6001205444336E-5sec
+.6 items: 2.3126602172852E-5sec
+.6 items: 2.1934509277344E-5sec
+.1000 items: 0.007889986038208sec
+
+
+Time: 51 ms, Memory: 2.25Mb
+
+[30;42mOK (4 tests, 4 assertions)[0m
